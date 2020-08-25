@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkumar762&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin: jatinkumar762](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/jatinkumar762/)
+[![Linkedin: jatinkumar762](https://img.shields.io/badge/-jatinkumar762-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinkumar762/)](https://www.linkedin.com/in/jatinkumar762/)
