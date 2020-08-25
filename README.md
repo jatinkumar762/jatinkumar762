@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinkumar762&count_private=true&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkumar762&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin: jatinkumar762](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/jatinkumar762/)
