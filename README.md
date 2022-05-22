@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 [![Linkedin: jatinkumar762](https://img.shields.io/badge/-jatinkumar762-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatinkumar762/)](https://www.linkedin.com/in/jatinkumar762/)
 
+<h3 align='left'>Publication:</h3>
+<p align="left">
+  <a href="https://arxiv.org/abs/2111.15438" target="blank">FMD-cGAN: Fast Motion Deblurring using Conditional Generative Adversarial Networks</a>
+</p>
+
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/jatin_kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jatin_kumar" height="30" width="40" /></a>
