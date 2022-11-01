@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align='left'>Achievements:</h3>
 <p align="left">
-  1. <a href="https://iitrpr.cvip2021.com/awards/" target="blank">Best Paper Award</a>
+  1. <a href="https://drive.google.com/file/d/1tivrbcBKHKyt5a3mqy9ojA0Rm0_BeDOo/view" target="blank">Best Paper Award</a>
 </p>
 
 <h3 align="left">Coding Profile:</h3>
